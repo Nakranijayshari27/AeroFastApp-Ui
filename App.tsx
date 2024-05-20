@@ -7,7 +7,7 @@ import { theme } from './src/Theme/Theme';
 // import { theme } from '@/Theme/Theme';
 
 LogBox.ignoreLogs([
-  'Warning: ...',
+  // 'Warning: ...',
   'ViewPropTypes will be removed',
   'ColorPropType will be removed',
 ]);
